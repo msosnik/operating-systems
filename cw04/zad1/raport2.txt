@@ -1,0 +1,1 @@
+fork przekazuje odpowiednie dane do procesu potomnego, exec pewnie jest źle użyty.

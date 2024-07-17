@@ -1,0 +1,11 @@
+Process 205903 took 0.033395446 seconds
+Process 205910 took 0.033913598 seconds
+Process 205900 took 0.046973025 seconds
+Process 205905 took 0.047243789 seconds
+Process 205909 took 0.036498953 seconds
+Process 205904 took 0.046223503 seconds
+Process 205901 took 0.052485509 seconds
+Process 205907 took 0.049966539 seconds
+Process 205902 took 0.059754548 seconds
+Process 205906 took 0.054086185 seconds
+Process 205908 took 0.054940492 seconds
